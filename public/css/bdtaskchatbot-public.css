@@ -1,0 +1,164 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .txt-color {
+    color: #37a000 !important;
+}
+ .form-label1-group>select{
+ 	font-size: 13px;
+    border-radius: 2rem;
+    height: 40px;
+}
+.form-label1-group>input{
+	 border-radius: 2rem !important;
+}
+.form-label1-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.bd-message-content-custom {
+    -ms-overflow-style: none;
+    overflow-x: hidden;
+    background-image: url(../img/messenger-bg.png);
+    background-color: #f2f2f2;
+    position: relative;
+    padding: 15px;
+    min-height: 306px;
+    font-size:10px;
+}
+
+.form-label1-group >input {
+    font-size: 13px;
+    height: 40px;
+}
+
+
+.btn-login-custom {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    /* padding: 0.75rem 1rem; */
+    border-radius: 2rem;
+}
+.btn {
+    padding: .275rem .65rem;
+    font-size: 1rem;
+}
+.font-weight-bold {
+    font-weight: 700!important;
+}
+.mb-2, .my-2 {
+    margin-bottom: .5rem!important;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    font-size: 16px!important;
+    padding: 0px 5px !important;
+}
+
+
+
+
+
+
+.table td, .table th {
+    padding: 0.55rem;
+    border-top:1px solid #ddd;
+    border-bottom:none;
+    border-left: none;
+    border-right: none;
+}
+.btn-custom{
+    font-size: 0.6rem !important;
+    padding: .2rem .3rem !important;
+    margin-top: 1px !important;
+    border-radius: 3px !important;
+    color:#fff!important;
+}
+
+.bd-message-content .message:last-child {
+    margin-bottom: 10px;
+}
+/*background color*/
+.bg-green{
+    background: #37a000 !important;
+}
+
+.rounded-circle{
+    border-radius: 50% !important;
+}
+/*avatar*/
+.custom_avatar{
+       position: relative;
+    color: #fff;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    vertical-align: middle;
+    background: #37a000 !important;
+    font-size: 0.5rem;
+    font-weight: 600;
+    margin-right: 8px;
+    height: 40px;
+    width: 40px;
+}
+
+/*loader*/
+.custom_loader{
+    position: relative;
+    margin: 40%;
+}
+.bd-message-content .message .text.me p {
+    color: #fff;
+}
+.bd-message-content .message span {
+    display: block;
+    font-size: 12px;
+    font-weight: 500;
+    /*color: #9a9a9a;*/
+    color: #212529;
+}
+.attach:hover {
+    background: #37a000;
+}
+.dropdown.chat-settings button {
+    margin-top: 7px;
+    font-size: 12px;
+}
+a.btn.chat-close {
+    font-size: 12px;
+    margin-top: 6px;
+    color:#fff;
+}
+
+a.btn.chat-toggle {
+    font-size: 12px;
+    margin-top: 6px;
+    color:#fff;
+}
+
+
+    .table td, .table th {
+    padding: 0.55rem;
+    border-top:1px solid #ddd;
+    border-bottom:none;
+    border-left: none;
+    border-right: none;
+}
+.btn-custom{
+    font-size: 0.6rem !important;
+    padding: .2rem .3rem !important;
+    margin-top: 1px !important;
+    border-radius: 3px !important;
+    color:#fff!important;
+}
+

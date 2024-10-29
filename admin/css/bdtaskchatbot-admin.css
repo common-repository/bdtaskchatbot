@@ -1,0 +1,38 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.form-control:focus {
+	border-color: #37a000!important;
+	box-shadow: none!important;
+}
+.form-control {
+	border-radius: 0!important;
+	box-shadow: none!important;
+	border: 1px solid #e4e5e7!important;
+}
+.card-header {
+	padding: 10px;
+	border-bottom: 2px solid #fbfbfb;
+	background-color: #fff;
+}
+.card-header {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.custom-select-sm {
+	height: calc(1.8125rem + 2px)!important;
+	padding-top: .25rem!important;
+	padding-bottom: .25rem!important;
+	padding-left: .5rem!important;
+	font-size: .875rem!important;
+}
+.custom-select {
+	padding: .375rem 1.75rem .375rem .75rem!important;
+	line-height: 1.5!important;
+}
+
+.form-control {
+    height: calc(1.8em + .75rem + 2px)!important
+}
